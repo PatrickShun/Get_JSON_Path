@@ -23,3 +23,5 @@
 点击 "查询节点路径" 按钮，结果会显示在下方的文本区域
 可点击 "清空结果" 按钮清除当前结果
 这个工具保留了原有的核心查找功能，并在此基础上增加了可视化界面，使操作更加简便直观。
+
+<img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/3ce136ef-614d-4286-bf7f-c7181dcf4b51" />
